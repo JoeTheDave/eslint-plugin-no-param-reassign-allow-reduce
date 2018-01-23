@@ -1,0 +1,22 @@
+{
+  "name": "eslint-plugin-no-param-reassign-allow-reduce",
+  "version": "1.0.0",
+  "description": "A copy of the 'no-param-reassign' rule but with allowances made for array.reduce",
+  "keywords": [
+    "eslint",
+    "eslint-plugin"
+  ],
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "author": "Joe Davis",
+  "license": "MIT",
+  "dependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.16.0",
+    "lodash": "^4.17.4",
+    "mocha": "^5.0.0",
+    "requireindex": "^1.1.0"
+  }
+}
