@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-param-reassign-allow-reduce",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A copy of the 'no-param-reassign' rule but with allowances made for array.reduce()",
   "keywords": [
     "eslint",
