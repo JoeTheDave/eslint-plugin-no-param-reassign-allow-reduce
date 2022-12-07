@@ -14,9 +14,9 @@
   "license": "MIT",
   "dependencies": {
     "babel-eslint": "^8.2.1",
-    "eslint": "^4.16.0",
+    "eslint": "^8.29.0",
     "lodash": "^4.17.4",
-    "mocha": "^5.0.0",
+    "mocha": "^10.1.0",
     "requireindex": "^1.1.0"
   }
 }
